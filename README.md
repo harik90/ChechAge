@@ -1,40 +1,38 @@
 # 📱 Age Checker App
 
-The **Age Checker App** is a simple, fast, and lightweight Android application built using Java and XML. This app helps users calculate their exact age in **years**, **months**, and **days** by entering their Date of Birth (DOB). It is designed for smooth performance on all Android devices.
+The **Age Checker App** is a simple, fast, and highly optimized Android application that calculates your exact age in **years**, **months**, and **days** based on your Date of Birth (DOB). Designed for smooth performance across all Android devices, this app runs offline and offers an attractive black & white theme.
 
 ---
 
 ## ✨ Features
-- ✅ Simple and User-Friendly Interface
-- ✅ Accurate Age Calculation (Years, Months, Days)
-- ✅ Lightweight and optimized for all Android devices
-- ✅ Dark & Light Theme Friendly
-- ✅ Works offline without internet
+- ✅ Clean and user-friendly interface
+- ✅ Accurate age calculation (Years, Months, Days)
+- ✅ Lightweight and fully optimized for Android
+- ✅ No internet connection required (Offline)
+- ✅ Elegant black & white theme for better readability
+- ✅ Supports all screen sizes
 
 ---
 
 ## 📸 Screenshots
 
-<p align="center">
-  <img src="https://github.com/harik90/ChechAge/Sreenshot/photo1.png" width="250" alt="Age Checker Screenshot 1">
-  <img src="https://github.com/harik90/ChechAge/Sreenshot/phot21.png" width="250" alt="Age Checker Screenshot 2">
-</p>
+| ![Home Screen](Screenshot/photo1.png) | ![Result Screen](Screenshot/photo2.png) |
 
 ---
 
 ## 🚀 How to Use
-1. Open the app
-2. Enter your **Date of Birth**
+1. Open the **Age Checker App**
+2. Select your **Date of Birth**
 3. Tap on **Check Age**
-4. The app displays your exact age in years, months, and days
+4. Get your exact age instantly
 
 ---
 
 ## 🛠 Tech Stack
 - **Language:** Java
-- **XML:** UI Design
+- **UI Design:** XML
 - **IDE:** Android Studio
-- **Min SDK:** Android 5.0 (Lollipop)
+- **Minimum SDK:** Android 5.0 (Lollipop)
 
 ---
 
@@ -44,7 +42,7 @@ The **Age Checker App** is a simple, fast, and lightweight Android application b
 ---
 
 ## 📚 License
-This project is licensed under the **MIT License** - feel free to use it for personal and educational purposes.
+This project is licensed under the **MIT License**  
+✅ Free for personal and educational use
 
 ---
-
