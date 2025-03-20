@@ -16,15 +16,16 @@ The **Age Checker App** is a simple, fast, and highly optimized Android applicat
 
 ## 📸 Screenshots
 
-<div align="center">
-
-### 🏠 Home Screen
-<img src="Screenshot/photo1.png" alt="Home Screen" width="300"/>
-
-### 📊 Result Screen
-<img src="Screenshot/photo2.png" alt="Result Screen" width="300"/>
-
-</div>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="Screenshot/photo1.png" alt="Home Screen" width="300"/><br><b>🏠 Home Screen</b>
+    </td>
+    <td align="center">
+      <img src="Screenshot/photo2.png" alt="Result Screen" width="300"/><br><b>📊 Result Screen</b>
+    </td>
+  </tr>
+</table>
 
 ---
 
