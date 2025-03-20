@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	xmlns:app="http://schemas.android.com/apk/res-auto"
+	xmlns:tools="http://schemas.android.com/tools"
+	android:layout_width="match_parent"
+	android:layout_height="match_parent"
+	android:id="@+id/ammfrane"
+	android:gravity="center"
+	android:background="@color/sp_bg">
+
+	<LinearLayout
+		android:layout_width="match_parent"
+		android:padding="16dp"
+		android:background="@drawable/bg3"
+		android:gravity="center"
+		android:layout_height="match_parent"
+		android:id="@+id/amm"
+		android:visibility="visible">
+
+		<ScrollView
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:id="@+id/scrollView"
+			android:foregroundGravity="center">
+
+			<LinearLayout
+				android:orientation="vertical"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				android:gravity="center">
+
+				<LinearLayout
+					android:orientation="vertical"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					android:gravity="center"
+					android:layout_margin="20dp"
+					android:visibility="gone"
+					android:id="@+id/texl"
+					android:background="@drawable/kkt">
+
+					<TextView
+						android:id="@+id/ageTextView"
+						android:layout_width="wrap_content"
+						android:layout_height="wrap_content"
+						android:text=""
+						android:textSize="18sp"
+						android:textColor="@color/textcolor"
+						android:shadowColor="#FF000000"
+						android:fontFamily="@font/fff"
+						android:gravity="center"
+						android:padding="15dp"/>
+
+				</LinearLayout>
+
+				<LinearLayout
+					android:orientation="vertical"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					android:gravity="center"
+					android:layout_marginTop="-10dp"
+					android:layout_margin="20dp"
+					android:background="@drawable/kk">
+
+					<DatePicker
+						android:id="@+id/datePicker"
+						android:layout_width="wrap_content"
+						android:layout_height="wrap_content"
+						android:calendarViewShown="false"
+						android:datePickerMode="spinner"/>
+
+					<Button
+						android:id="@+id/calculateButton"
+						android:layout_width="match_parent"
+						android:layout_height="wrap_content"
+						android:text="@string/btntxt"
+						android:textColor="@color/textcolor"
+						android:padding="10dp"
+						android:fontFamily="@font/fff"
+						android:layout_margin="10dp"
+						android:background="@drawable/hh"/>
+
+				</LinearLayout>
+
+			</LinearLayout>
+
+		</ScrollView>
+
+	</LinearLayout>
+
+
+</FrameLayout>
+

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FF001D26</color>
+    <color name="colorPrimaryDark">#FF001D26</color>
+    <color name="colorAccent">#FF9800</color>
+    
+    <color name="sp_bg">#FF001D26</color>
+    <color name="stabar">#FF001D26</color>
+    <color name="neviga">#FF001D26</color>
+    
+    <color name="textcolor">#FF001D26</color>
+    
+    <color name="bg_rbtn">#FFDDFDFF</color>
+    <color name="bg_rlay">#64DDFDFF</color>
+    <color name="bg_rtxtlay">#64DDFDFF</color>
+    
+    <color name="oflay">#FF001D26</color>
+    <color name="oftxt">#FFEAFAFF</color>
+    
+    <color name="deavlay">#FF001D26</color>
+    <color name="textdeactiv">#FFEAFAFF</color>
+    
+    
+    
+    
+</resources>

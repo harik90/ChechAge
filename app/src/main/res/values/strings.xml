@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Check Age</string>
+    
+    <string name="oftxt">Dude are you OFFLINE...!</string>
+    <string name="devatxt">This Application Disactived By ANON...!</string>
+    <string name="btntxt">Calculate Age</string>
+    
+</resources>
