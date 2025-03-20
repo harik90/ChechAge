@@ -46,7 +46,7 @@ The **Age Checker App** is a simple, fast, and highly optimized Android applicat
 ---
 
 ## 📥 Download APK
-👉 [Download Latest APK](https://your-apk-download-link)
+👉 [Download Latest APK](https://github.com/harik90/ChechAge/releases/download/agechecker/Check.Age.apk)
 
 ---
 
